@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log file
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# OS/macOS
+.DS_Store
+
+# Git
+.git
+.gitignore
+
+# Jupyter Notebook
+*.ipynb
+
+# Dataset atau file besar (optional)
+*.zip
+*.tar.gz
+*.hdf5~
+*.h5~
